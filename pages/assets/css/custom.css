@@ -1,0 +1,33 @@
+
+.section-title {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .section-subtitle {
+    font-weight: 300;
+    margin: 0 0 10px;
+  }
+
+  h3.meta a {
+    color: #aaaaaa;
+  }
+
+  h2 {
+    color: #116149;
+    font-weight: bold;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+    color: #13aa52;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
